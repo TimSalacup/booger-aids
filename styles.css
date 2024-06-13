@@ -369,3 +369,38 @@ li a:active {
     display: none;
   }
 }
+
+@media (max-width: 520px) {
+  nav .row .container{
+    flex-direction: column;
+  }
+
+  .nav__logo {
+    margin-bottom: 20px;
+  }
+
+  .nav__list {
+    width: 90%;
+    justify-content: space-around;
+  }
+
+  .nav__btn {
+    margin: 0;
+  }
+
+  .header__row {
+    margin-top: 28px;
+  }
+
+  main {
+    margin-top: 28px;
+  }
+
+  .main__text--title {
+    font-size: 36px;
+  }
+
+  .footer__logo {
+    margin: 12px 0;
+  }
+}
