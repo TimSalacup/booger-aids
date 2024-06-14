@@ -15,3 +15,5 @@ Footer links - do a simple underline animation when hovered over.
 I did not include a footer gallery because I believe that footers should be as simple as possible. They should only contain extra information such as links to contact details, biographies, profile information, etc. 
 
 If ever a photo is going to be used in the footer, I believe it should be something special such as a personal and customized logo to leave your mark on the website.
+
+The site is also responsive, so feel free to try out the website on your mobile phone!
